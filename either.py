@@ -1,6 +1,5 @@
 import requests
 
-# percentage needs to go down 2 brackets and the rest 1
 toGet = ["percentage", "count", "option-text"]
 bracTillVal = [2, 1, 1]
 numToGet = 2
