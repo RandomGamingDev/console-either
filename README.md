@@ -1,4 +1,6 @@
 # console-either
+## Notice: either.io, the site that this program scrapes is now gone meaning that console-either is now unusable alongside it
+
 Either.io for the console
 
 Just play either.io in the console!
